@@ -1,0 +1,13 @@
+Analysis:
+
+    -Total Sales
+
+    -Monthly Sales Trend (Line Chart)
+
+    -Top 5 Products (Bar Chart)
+
+    -City-wise Sales
+
+    -Profit vs Sales Graph
+
+    -Most Profitable Category
